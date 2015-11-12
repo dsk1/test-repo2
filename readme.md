@@ -1,6 +1,6 @@
 ## secondary heading
 ## tertiary heading
 * first list item
-** list item1
-** list item2
+* list item1
+* list item2
 
